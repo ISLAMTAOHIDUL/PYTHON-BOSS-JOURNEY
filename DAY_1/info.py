@@ -1,0 +1,5 @@
+print("Name: Taahid Bin Bhuiyan")
+print("Country: Bangladesh")
+print("Current Country: South Korea")
+print("Aim: To be a boss programmer in the future In Sha Allah")
+print("Major: Computer Software Engineering Major")
