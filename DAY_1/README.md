@@ -1,15 +1,20 @@
-# Python Boss Journey - Day 1
+# Day 1 - Python Introduction
 
-This repository contains my first Python practice files.
+## Topics Covered
+- print()
+- variables
+- user input
+- simple math
+- if-else conditions
 
 ## Files
-- age_check.py
 - hello.py
 - info.py
+- variables.py
 - input_test.py
 - math_test.py
+- age_check.py
 - my_profile.py
-- variables.py
 
 ## Goal
-To become strong in Python and software development.
+To understand the absolute basics of Python and run my first programs.
