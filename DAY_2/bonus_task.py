@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+food = input("Enter your favorite food name: ")
+visit = input("Which country you wanna visit: ")
+job = input("What is your dream job?: ")
+
+print("/n---------------HERE IS YOUR INFO---------------/n")
+print("Your name is: ", name)
+print("Your age is: ", age)
+print("Your favourite food is: ", food)
+print("You wanna visit: ", visit)
+print("Your dream job is: ", job)
