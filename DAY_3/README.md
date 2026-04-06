@@ -14,7 +14,6 @@
 - even_odd_checker.py
 - pass_fail_checker.py
 - grade_system.py
-- age_eligibility.py
 - bonus_challenge.py
 - largest_number.py
 
@@ -22,7 +21,6 @@
 - Even or Odd Checker
 - Pass or Fail Checker
 - Grade System
-- Age Eligibility Checker
 - Login Validation Program
 - Largest Number Checker
 
