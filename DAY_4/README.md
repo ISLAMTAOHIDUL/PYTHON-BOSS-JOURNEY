@@ -1,4 +1,4 @@
-# Day 4 - Loops (for, while)
+## Day 4 - Loops (for, while)
 
 ## Topics Covered
 - for loop
